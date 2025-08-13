@@ -1,0 +1,5 @@
+module Introduction2QML_01
+typeinfo appIntroduction2QML_01.qmltypes
+prefer :/qt/qml/Introduction2QML_01/
+Main 1.0 Main.qml
+
